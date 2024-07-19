@@ -1,3 +1,3 @@
 resource "aws_s3_bucket" "example_terraform" {
-  bucket = "example-terraform-bucket-123"
+  bucket = "example-terraform-bucket-1234"
 }
